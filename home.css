@@ -1,0 +1,22 @@
+*{
+font-family: sans-serif;    
+}
+
+body{
+background-color: white;    
+}
+
+#logo{
+width: 60px;
+height: 56px;
+background-color: rgba(64, 47, 196, 0);
+border-radius: 50%;    
+}
+
+.carousel-indicators button{
+height: 10px !important;
+width: 10px !important;
+margin: 0 10px !important;
+border-radius: 100%;
+background-color: rgba(255, 255, 255, 0.69) !important; 
+}
